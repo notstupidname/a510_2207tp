@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+    <title>A510 Architects</title>
+    <style>
+        path {color:#000;stroke:currentColor;fill:none;stroke-width:27;}
+        rect {fill:#fff}
+        @media (prefers-color-scheme: dark) {
+            path {color:#fff}
+            rect {fill:#000}
+        }
+    </style>
+    <!-- <rect width="1000" height="1000" rx="20" ry="20"/> -->
+    <path d="M50 455v-253.1l202.5 -151.9 202.5 151.9v253.1z" style="fill:currentColor"/>
+    <path d="M50 455v-253.1l202.5 -151.9 202.5 151.9v253.1z" transform="translate(495)"/>
+    <path d="M50 455v-253.1l202.5 -151.9 202.5 151.9v253.1z" transform="translate(0,495)"/>
+    <path d="M50 455v-253.1l202.5 -151.9 202.5 151.9v253.1z" transform="translate(495,495)"/>
+</svg>

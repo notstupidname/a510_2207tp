@@ -1,0 +1,622 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4265mm" height="2920mm" viewBox="-16.0 -2936.0 4297.0 2952.0" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M0,0 L0,2920" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M0,0 L1545,0" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1545,0 L1545,2920" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M0,2920 L1545,2920" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M2045,0 L2045,2920" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M4265,0 L4265,2920" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M2045,0 L4265,0" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M2045,2920 L4265,2920" style="stroke-width:var(--lw-6);" />
+        
+        <circle cx="772.5" cy="1832.5977" r="450" style="stroke-width:var(--lw-3);" />
+        
+        <circle cx="772.5" cy="1832.5977" r="480" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3365,70 L4265,70 L4265,0 L3365,0 Z" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M800,240 L1545,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1300,480 L1545,480" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1300,720 L1545,720" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M800,960 L1030,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,1200 L1392.5,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,1440 L496.3351,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1048.6649,1440 L1545,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,1680 L317.4023,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1227.5978,1680 L1545,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,1920 L300.5246,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1244.4755,1920 L1545,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,2160 L421.4904,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1123.5096,2160 L1545,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,2400 L1545,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,2640 L1545,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,2880 L1545,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1492.5,1200 L1492.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1372.5,1200 L1372.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1312.5,1200 L1312.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1252.5,1200 L1252.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1192.5,1200 L1192.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1132.5,1200 L1132.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1072.5,1200 L1072.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1012.5,1200 L1012.5,1416.9055" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M952.5,1200 L952.5,1387.6258" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M892.5,1200 L892.5,1367.8397" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M832.5,1200 L832.5,1356.3625" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M772.5,1200 L772.5,1352.5977" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M712.5,1200 L712.5,1356.3625" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M652.5,1200 L652.5,1367.8397" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M592.5,1200 L592.5,1387.6258" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M532.5,1200 L532.5,1416.9055" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M472.5,1200 L472.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M412.5,1200 L412.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M352.5,1200 L352.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M292.5,1200 L292.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M232.5,1200 L232.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M172.5,1200 L172.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M112.5,1200 L112.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M52.5,1200 L52.5,1440" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1460,960 L1460,1160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1520,960 L1520,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1400,960 L1400,1160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1340,960 L1340,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1280,960 L1280,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1220,960 L1220,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1160,960 L1160,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1100,960 L1100,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1040,960 L1040,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M980,960 L980,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M920,960 L920,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M860,960 L860,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1492.5,720 L1492.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1432.5,720 L1432.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1372.5,720 L1372.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1312.5,720 L1312.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1252.5,850 L1252.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1192.5,850 L1192.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1132.5,860 L1132.5,930" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1072.5,860 L1072.5,885.6249" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1012.5,860 L1012.5,957.5" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M952.5,860 L952.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M892.5,850 L892.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M832.5,850 L832.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1460,480 L1460,720" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1520,480 L1520,720" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1400,480 L1400,720" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1340,480 L1340,720" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1460,0 L1460,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1520,0 L1520,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1400,0 L1400,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1340,0 L1340,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1280,0 L1280,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1220,0 L1220,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1160,0 L1160,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1100,0 L1100,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1040,0 L1040,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M980,0 L980,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M920,0 L920,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M860,0 L860,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1492.5,240 L1492.5,480" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1432.5,240 L1432.5,480" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1372.5,240 L1372.5,480" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1312.5,240 L1312.5,480" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1252.5,350 L1252.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1192.5,350 L1192.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1132.5,350 L1132.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1072.5,350 L1072.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1012.5,350 L1012.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M952.5,350 L952.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M892.5,350 L892.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M832.5,350 L832.5,240" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1460,1440 L1460,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1520,1440 L1520,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1400,1440 L1400,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1340,1440 L1340,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1280,1440 L1280,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1220,1440 L1220,1658.9782" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1160,1440 L1160,1549.3244" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1492.5,1680 L1492.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1432.5,1680 L1432.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1372.5,1680 L1372.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1312.5,1680 L1312.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1252.5,1680 L1252.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1492.5,2160 L1492.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1432.5,2160 L1432.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1372.5,2160 L1372.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1312.5,2160 L1312.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1252.5,2160 L1252.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1192.5,2160 L1192.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1132.5,2160 L1132.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1072.5,2207.2976 L1072.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1012.5,2248.2899 L1012.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M952.5,2277.5696 L952.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M892.5,2297.3557 L892.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M832.5,2308.833 L832.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M772.5,2312.5977 L772.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M712.5,2308.833 L712.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M652.5,2297.3557 L652.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M592.5,2277.5696 L592.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M532.5,2248.2899 L532.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M472.5,2207.2976 L472.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M412.5,2160 L412.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M352.5,2160 L352.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M292.5,2160 L292.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M232.5,2160 L232.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M172.5,2160 L172.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M112.5,2160 L112.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M52.5,2160 L52.5,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1460,1920 L1460,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1520,1920 L1520,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1400,1920 L1400,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1340,1920 L1340,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1280,1920 L1280,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1220,2006.2173 L1220,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1160,2115.871 L1160,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M85,1440 L85,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M25,1440 L25,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M145,1440 L145,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M205,1440 L205,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M265,1440 L265,1680" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M325,1440 L325,1658.9782" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M385,1440 L385,1549.3244" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M52.5,1680 L52.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M112.5,1680 L112.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M172.5,1680 L172.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M232.5,1680 L232.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M292.5,1680 L292.5,1920" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M85,1920 L85,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M25,1920 L25,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M145,1920 L145,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M205,1920 L205,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M265,1920 L265,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M325,2006.2173 L325,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M385,2115.871 L385,2160" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1462.5,2400 L1462.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1522.5,2400 L1522.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1402.5,2400 L1402.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1342.5,2400 L1342.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1282.5,2400 L1282.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1222.5,2400 L1222.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1162.5,2400 L1162.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1102.5,2400 L1102.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1042.5,2400 L1042.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M982.5,2400 L982.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M922.5,2400 L922.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M862.5,2400 L862.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M802.5,2400 L802.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M742.5,2400 L742.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M682.5,2400 L682.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M622.5,2400 L622.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M562.5,2400 L562.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M502.5,2400 L502.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M442.5,2400 L442.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M382.5,2400 L382.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M322.5,2400 L322.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M262.5,2400 L262.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M202.5,2400 L202.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M142.5,2400 L142.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M82.5,2400 L82.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M22.5,2400 L22.5,2640" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1492.5,2640 L1492.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1432.5,2640 L1432.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1372.5,2640 L1372.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1312.5,2640 L1312.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1252.5,2640 L1252.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1192.5,2640 L1192.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1132.5,2640 L1132.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1072.5,2640 L1072.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1012.5,2640 L1012.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M952.5,2640 L952.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M892.5,2640 L892.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M832.5,2640 L832.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M772.5,2640 L772.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M712.5,2640 L712.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M652.5,2640 L652.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M592.5,2640 L592.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M532.5,2640 L532.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M472.5,2640 L472.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M412.5,2640 L412.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M352.5,2640 L352.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M292.5,2640 L292.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M232.5,2640 L232.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M172.5,2640 L172.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M112.5,2640 L112.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M52.5,2640 L52.5,2880" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M4265,1200 L3115,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M2235,1200 L2045,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M4265,1800 L3115,1800" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M2235,1800 L2045,1800" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M4265,2400 L2045,2400" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M4265,600 L3115,600" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M2235,600 L2045,600" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M0,600 L800,600" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M3075,2920 L3075,2090" style="stroke-width:var(--lw-1);" />
+        
+        <line x1="0" y1="1200" x2="800" y2="1200" style="stroke-width:var(--lw-4);" />
+        
+        <line x1="800" y1="1200" x2="800" y2="0" style="stroke-width:var(--lw-4);" />
+        
+        <line x1="580" y1="371.6895" x2="220" y2="371.6895" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="580" y1="385.2785" x2="220" y2="385.2785" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="580" y1="400" x2="220" y2="400" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="316.7616" y1="39.5296" x2="483.2384" y2="39.5296" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="483.2384" y1="39.5296" x2="580" y2="371.6895" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="316.7616" y1="39.5296" x2="220" y2="371.6895" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M220,385.2785 L220,400" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M580,385.2785 L580,400" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="520" y1="1080" x2="520" y2="920" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="520" y1="920" x2="280" y2="920" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="280" y1="920" x2="280" y2="1080" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="280" y1="1080" x2="520" y2="1080" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="800" y1="850" x2="1300" y2="850" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1300" y1="850" x2="1300" y2="350" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1300" y1="350" x2="800" y2="350" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="800" y1="350" x2="800" y2="850" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="800" y1="804.3109" x2="1300" y2="804.3109" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1300" y1="577.1554" x2="800" y2="577.1554" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1035" y1="870" x2="1065" y2="870" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1040" y1="930" x2="1060" y2="930" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1040" y1="930" x2="1010" y2="960" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1030" y1="960" x2="1060" y2="930" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1030" y1="960" x2="1030" y2="970" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1010" y1="960" x2="1030" y2="960" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1010" y1="970" x2="1010" y2="960" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1030" y1="970" x2="1010" y2="970" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1060" y1="930" x2="1030" y2="970" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1040.0001,930.0003 A40.0896,40.0896 0 0,1 1035.0001,910.0003" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1064.9999,910.0003 A40.0896,40.0896 0 0,1 1059.9999,930.0003" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1065" y1="880" x2="1065" y2="860" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1065" y1="910" x2="1065" y2="904.772" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1045" y1="880" x2="1045" y2="890" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1065" y1="880" x2="1045" y2="880" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1065" y1="880" x2="1131.7484" y2="930.06" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1035" y1="910" x2="1065" y2="910" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1035" y1="860" x2="1035" y2="910" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1125" y1="930" x2="1125" y2="940" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1145" y1="930" x2="1125" y2="930" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1145" y1="940" x2="1145" y2="930" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1125" y1="940" x2="1045" y2="880" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1125" y1="940" x2="1125" y2="950" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1145" y1="940" x2="1125" y2="940" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1145" y1="950" x2="1145" y2="940" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1125" y1="950" x2="1145" y2="950" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1045" y1="890" x2="1125" y2="950" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M930,850 L930,860 L1170,860 L1170,850 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3025,0 L3025,0 L3025,2000 L2675,2000" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,2000 L2325,2000 L2325,0 L2325,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3025,0 L3025,0 L3025,2000 L2675,2000" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,2000 L2325,2000 L2325,0 L2325,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2475,600 L2475,150 L2675,150" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,150 L2875,150 L2875,600" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2875,750 L2875,1850 L2675,1850" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,1850 L2475,1850 L2475,920.6473" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2475,890.678 L2475,750" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2475,750 L2675,750" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,750 L2875,750" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2475,600 L2675,600" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,600 L2875,600" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,750 L2875,750 L2875,1850 L2675,1850" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,1850 L2475,1850 L2475,920.6473" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2475,890.678 L2475,750 L2675,750" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,770 L2855,770 L2855,1830 L2675,1830" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,1830 L2495,1830 L2495,920.6473" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2495,890.678 L2495,770 L2675,770" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,150 L2875,150 L2875,600 L2675,600" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,600 L2475,600 L2475,150 L2675,150" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,170 L2855,170 L2855,580 L2675,580" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,580 L2495,580 L2495,170 L2675,170" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2554.6596,920.6473 L2374.9322,920.6473 L2374.9322,890.678 L2554.6596,890.678 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3025,0 L3025,2000 L2675,2000" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,2000 L2325,2000 L2325,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3115,0 L3115,2090 L2675,2090" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2675,2090 L2235,2090 L2235,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1392.5,1240 L1472.5,1240 L1472.5,1160 L1392.5,1160 Z" style="stroke-width:var(--lw-3);" />
+        
+        <circle cx="1432.5" cy="1200" r="25" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1037.5,960 L1545,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1072.5,910.625 L1072.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1132.5,950 L1132.5,960" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1472.5,1200 L1545,1200" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M1432.5,1240 L1432.5,1440" style="stroke-width:var(--lw-1);" />
+    </g>
+</svg>

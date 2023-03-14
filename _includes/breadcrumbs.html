@@ -1,0 +1,60 @@
+<ul class="breadcrumbs">
+    <li><a class="link" href="/">Проект</a></li>
+    {%- assign urls_list = "" | split: ',' -%}
+    {%- assign titles_list = "" | split: ',' -%}
+    {%-assign crumbs = page.url | split: '/'-%}
+    {%-assign full_url = "/"-%}
+    {%-for crumb in crumbs offset: 1-%}
+        {%-assign full_url = full_url | append: crumb | append: "/"-%}
+        {%-if forloop.last-%}
+            {% unless (page.layout == "project") or (page.layout == "port-project") %}
+            <li>{{page.page-short-title}}</li>
+            {%- assign titles_list = titles_list | push: page.page-short-title -%}
+            {% else %}
+            <li></li>
+            {%- assign full_name = page.project-title | append: ' ' | append: page.project-name -%}
+            {%- assign titles_list = titles_list | push: full_name -%}
+            {% endunless %}
+        {%-else-%}
+            {%-assign crumb_title = ""-%}
+            {%-for p in site.pages-%}
+                {%-if p.url == full_url-%}
+                    {%-capture crumb_title-%}{{p.page-short-title}}{%-endcapture-%}
+                {%-endif-%}
+            {%-endfor-%}
+            {%-if crumb_title == ""-%}
+                {%-for p in site.proekty-%}
+                    {%-if p.url == full_url-%}
+                        {%-capture crumb_title-%}{{p.page-short-title}}{%-endcapture-%}
+                    {%-endif-%}
+                {% endfor %}
+            {%endif%}
+                <li><a class="link" href={{ full_url }}>{{crumb_title}}</a></li>
+                {%- assign urls_list = urls_list | push: full_url -%}
+                {%- assign titles_list = titles_list | push: crumb_title -%}
+        {%endif%}
+    {%-endfor-%}
+</ul>
+{%- if titles_list.size > 0 -%}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {%- for title in titles_list -%}
+    {%- unless forloop.last -%}
+    {"@type": "ListItem",
+    "position": {{forloop.index}},
+    "name": "{{title}}",
+    "item": "{{site.url}}{{urls_list[forloop.index0]}}"
+    },
+    {%- else -%}{
+    "@type": "ListItem",
+    "position": {{forloop.index}},
+    "name": "{{title}}"
+    }
+    {%- endunless -%}
+    {%- endfor -%}]
+}
+</script>
+{%- endif -%}

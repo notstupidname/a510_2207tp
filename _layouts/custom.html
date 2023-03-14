@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ru">
+    {% include head.html %}
+    <body class="is-loading">
+        {% include custom_header.html %}
+        {% include custom_nav.html %}
+        {{content}}
+        {%-unless page.nofooter-%}{% include footer.html %}{%-endunless-%}
+        {% include scripts.html %}
+    </body>
+</html>

@@ -1,0 +1,25 @@
+plugins:
+  - jekyll-seo-tag
+  
+collections:
+  rooms:
+    output: true
+
+social:
+  name: Архитектурное бюро А510
+  links:
+    - https://www.facebook.com/a510ru
+    - http://instagram.com/a510ru
+
+logo: /icon-512.png
+url: https://2207_tp.a510.ru
+
+title: "Архитектурное бюро А510"
+lang: "ru_RU"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /icon-512.png
