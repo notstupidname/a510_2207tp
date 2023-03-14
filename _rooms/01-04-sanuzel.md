@@ -41,9 +41,10 @@ data:
     url: https://www.marazzi-italy.ru/catalog/lume/m6rr_blue_lux_6x24_lume_marazzi/
     pic: /images/01-04-sanuzel-3.jpg
     num: 3
-  - name: Лепной декор ORAC DECOR
-    url: https://oracdecor.ru/cx161_cornice_moulding
+  - name: Дверь PROFIL DOORS 2.102U 700x2000
+    url: https://www.profildoors.ru/catalog/serija_u/2_102u/?color=sand&glass=
     pic: /images/01-04-sanuzel-4.jpg
+    num: 1
 - id: Сантехника и аксессуары
   content:
   - name: Тумба LAUFEN PRO S 480
