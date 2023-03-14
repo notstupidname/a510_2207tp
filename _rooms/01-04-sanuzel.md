@@ -10,6 +10,8 @@ name: Санузел
 number: 4
 floor: 1
 
+dxf: 01-04-sanuzel_plan.svg
+
 head:
 - name: Пол
   value:

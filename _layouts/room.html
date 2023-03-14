@@ -11,7 +11,9 @@
             </header>
             <div class="project-wrapper">
                 <section class="project-plans flex-stack">
-                    {% include_relative {{page.url | split: "/" | last}}_plan.svg %}
+                    {%- if page.dxf -%}
+                    {% include_relative {{page.dxf}} %}
+                    {%- endif -%}
                 </section>
                 <section class="project-tables">
                     <div class="stack">
