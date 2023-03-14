@@ -10,7 +10,7 @@ name: Санузел
 number: 4
 floor: 1
 
-dxf: 01-04-sanuzel_plan.svg
+dxf: 
 
 head:
 - name: Пол
@@ -18,69 +18,83 @@ head:
   - Керамогранит под дерево
 - name: Стены
   value:
-  - Керамогранит песчанный
+  - Керамогранит песчаный
   - Акцентная плитка
 - name: Потолок
   value:
+  - ГКВЛ
+  - Лепной декор
   - Влагостойкая краска
-- name: Аксессуары
-  value:
-  - Черные матовые
 
 data:
 - id: Материалы
   content:
-  - name: Керамогранит Etic Noce Hickory 25x150
-    url: https://www.atlasconcorde.com/ru-ru/kollektsii/ac/etic-pro/gres/noce-hickory/
+  - name: Керамогранит ЛОФТ МУРЛЭНД 200x1600
+    url: https://www.italonceramica.ru/ru/kollektsii/loft/murlend/?producttype=gres
     pic: /images/01-04-sanuzel-1.jpg
     num: 5
-  - name: Керамогранит TERRAE SABBIA
+  - name: Керамогранит TERRAE SABBIA 600х1200
     url: https://vallelungacer.it/ru/k%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/terrae/
     pic: /images/01-04-sanuzel-2.jpg
     num: 2
-  - name: Плитка M6RR Blue Lux 6x24
+  - name: Плитка LUME BLUE LUX 60x240
     url: https://www.marazzi-italy.ru/catalog/lume/m6rr_blue_lux_6x24_lume_marazzi/
     pic: /images/01-04-sanuzel-3.jpg
     num: 3
+  - name: Лепной декор ORAC DECOR
+    url: https://oracdecor.ru/cx161_cornice_moulding
+    pic: /images/01-04-sanuzel-4.jpg
 - id: Сантехника и аксессуары
   content:
-  - name: Тумба BelBagno KRAFT-39 Rovere Tabacco 50 см
-    url: https://belbagnoshop.ru/catalog/3566
-    pic: /images/01-04-sanuzel-6.jpg
+  - name: Тумба LAUFEN PRO S 480
+    url: https://www.laufen.ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/%D1%88%D0%BA%D0%B0%D1%84%D1%87%D0%B8%D0%BA-%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%83-%D0%BF%D0%B5%D1%82%D0%BB%D0%B8-%D1%81%D0%BB%D0%B5%D0%B2%D0%B0-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B0%D1%81%D1%81%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D0%B8-%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8-%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B-815955-H483001095...1?sku=H4830010959991
+    pic: /images/01-04-sanuzel-7.jpg
     num: 1
-  - name: Смеситель Paffoni Ringo RIN071BO
-    url: https://www.santehnica.ru/product/213880.html
-    pic: empty
+  - name: Смеситель PAFFONI RINGO 
+    url: https://paffoni-shop.ru/shop/smesiteli-dlya-rakoviny/smesiteli-dlya-rakoviny1/smesitel-dlya-rakoviny-paffoni-ringo-rin071bo
+    pic: /images/01-04-sanuzel-8.jpg
     num: 1
-  - name: Зеркало BelBagno 90 x 90 см с подсветкой
-    url: https://www.santehnica.ru/product/390575.html
-    pic: empty
-    num: 1
-  - name: Душевая система Paffoni KIT LIG
-    url: https://www.santehnica.ru/product/434127.htmI
-    pic: empty
-    num: 1
-  - name: Инсталляция Jacob Delafon
-    url: https://www.santehnica.ru/product/216641.htmI
-    pic: empty
-    num: 1
-  - name: Гигиенический душ Paffoni Tweet Round
-    url: https://www.santehnica.ru/product/243253.htmI
-    pic: empty
-    num: 1
-  - name: Душевой трап RGW SDR-01-Q
-    url: https://rgw-magazin.ru/trapy-dlya-dusha/rgw-sdr-01-q/?variation_id=1559
-    pic: empty
-    num: 1
-  - name: Сунержа Богема 3.0 прямая 600х500
+  - name: Полотенцесушитель эл. СУНЕРЖА
     url: https://shop.sunerzha.com/catalog/elektricheskie/lesenki_2/reb_bogema_3_0_pryamaya_600kh500_mem_pravyy/?oid=30780
-    pic: empty
+    pic: /images/01-04-sanuzel-9.jpg
     num: 1
-- id: Розетки и выключатели
-  content:
-  - name: Schneider Electric Odace
-    url: https://schneider-pro.ru/rozetki-i-vyiklyuchateli/schneider-electric-odace/?frame=%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20(%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA)&switch=%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20(%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA)
+  - name: Душевая система PAFFONI KIT 
+    url: https://paffoni-shop.ru/shop/dushevaya-programma/dushevye-sistemy/dushevoj-komplekt-paffoni-3-v-1-41bo
+    pic: /images/01-04-sanuzel-10.jpg
+    num: 1
+  - name: Инсталляция JACOB DELAFON
+    url: https://www.santehnica.ru/product/216641.htmI
+    pic: /images/01-04-sanuzel-11.jpg
+    num: 1
+  - name: Гигиенический душ PAFFONI TWEET ROUND
+    url: https://paffoni-shop.ru/shop/gigienicheskie-dushi/smesitel-s-gigienicheskim-dushem-paffoni-tweet-round-zdup110bo
+    pic: /images/01-04-sanuzel-12.jpg
+    num: 1
+  - name: Душевой трап RGW
+    url: https://rgw-magazin.ru/trapy-dlya-dusha/rgw-sdr-01-q/?variation_id=1559
+    pic: /images/01-04-sanuzel-13.jpg
+    num: 1
+  - name: Крючок IDDIS
+    url: https://www.iddis.ru/catalog/bathroom/bathroom_accessories/NOAWT10i41/
+    pic: /images/01-04-sanuzel-14.jpg
+    num: 2
+  - name: Держатель IDDIS
+    url: https://www.iddis.ru/catalog/bathroom/bathroom_accessories/NOAWT00i43/
+    pic: /images/01-04-sanuzel-15.jpg
+    num: 1
+  - name: Коврик IDDIS
+    url: https://www.iddis.ru/catalog/bathroom/textile/D08C470i12/
     pic: /images/01-04-sanuzel-16.jpg
     num: 1
+- id: Светильники
+  content:
+  - name: Встраиваемый светильник ZOOM
+    url: https://maytoni.ru/catalog/functional/vstraivaemye-svetilniki/dl033-2-02w/
+    pic: /images/01-04-sanuzel-19.jpg
+    num: 2
+  - name: Подвесной светильник BOTELLO
+    url: https://www.laredoute.ru/ppdp/prod-350079361.aspx?docid=868723#shoppingtool=treestructureguidednavigation&srt=noSorting&shoppingtool=treestructureguidednavigation&pgnt=2
+    pic: /images/01-04-sanuzel-20.jpg
+    num: 2
 
 ---
