@@ -1172,12 +1172,12 @@ ul.breadcrumbs li:last-child:not(:first-child) {
 }
 
 /* 2207_TP */
-:root {
+/* :root {
     --text-color: #fcfbf9;
     --back-color: #100e11;
     --mid-color: #0000ff;
     --font-weight: 300;
-}
+} */
 
 /* @link https://utopia.fyi/type/calculator?c=1920,16,1.333,2540,20,1.333,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l|m-xl|xl-2xl|xs-l&g=s,l,xl,12 */
 
