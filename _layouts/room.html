@@ -14,7 +14,7 @@
                     {%- if page.dxf -%}
                         {% include_relative {{page.dxf}} %}
                     {%- else -%}
-                        {% include_relative schema.svg %}
+                        {% include_relative 01-04-sanuzel_plan.svg %}
                     {%- endif -%}
                 </section>
                 <section class="project-tables">
@@ -35,11 +35,36 @@
             { include_relative {{page.url | split: "/" | last}}_r2.svg }
             </div>
             </section> -->
+            <section class="stack">
+                <h2>Визуализации</h2>
+                <div class="gallery">
+                    <img
+                        src="/images/gallery/bedroom_01.jpg"
+                        class="big fw"
+                        width="400"
+                        height="300">
+                    <img
+                        src="/images/gallery/bedroom_02.jpg"
+                        class="big fw"
+                        width="400"
+                        height="300">
+                    <img
+                        src="/images/gallery/bedroom_01_v.jpg"
+                        class="medium fw"
+                        width="400"
+                        height="300">
+                    <img
+                        src="/images/gallery/bedroom_03_v.jpg"
+                        class="medium fw"
+                        width="400"
+                        height="300">
+                </div>
+            </section>
             {%- for data_block in page.data -%}
                 <section class="stack">
                     <h2>{{ data_block.id }}</h2>
                     {%- assign size = data_block.content | size -%}
-                    <div class="items product{% if size > 3 %} small{%- endif -%}">
+                    <div class="items product{% if size > 4 %} small{%- endif -%}">
                         {%- for block in data_block.content -%}
                             <a
                                 href={{ block.url }}
