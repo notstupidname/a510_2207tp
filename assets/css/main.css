@@ -1202,10 +1202,6 @@ h3 {
     font-size: var(--custom-step-2);
 }
 
-img {
-    filter: brightness(.9) contrast(1.1) saturate(.9);
-}
-
 svg.svg-drawing {
     --lw-1: 0.05%;
     --lw-2: 0.075%;

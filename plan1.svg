@@ -6,15 +6,15 @@
         
         <path d="M1288.5823,5945 L5763.5823,5945 L5763.5823,1125 L1288.5823,1125 Z" style="stroke-width:0.001;" class="svg-area" data-area="5"/>
         
-        <a class="svg-link" href="#"><path d="M6138.5823,4305 L8088.5823,4305 L8088.5823,2165 L6138.5823,2165 Z" style="stroke-width:0.001;" class="svg-area" data-area="1"/></a>
+        <a class="svg-link" href="/rooms/01-01-prihojaya"><path d="M6138.5823,4305 L8088.5823,4305 L8088.5823,2165 L6138.5823,2165 Z" style="stroke-width:0.001;" class="svg-area" data-area="1"/></a>
         
-        <path d="M8203.5823,4525 L10463.5823,4525 L10463.5823,2165 L8468.5823,2165 L8468.5823,3070 L8203.5818,3070.0003 L8203.5818,4525" style="stroke-width:0.001;" class="svg-area"  data-area="2"/>
+        <a class="svg-link" href="/rooms/01-02-boilernaya"><path d="M8203.5823,4525 L10463.5823,4525 L10463.5823,2165 L8468.5823,2165 L8468.5823,3070 L8203.5818,3070.0003 L8203.5818,4525" style="stroke-width:0.001;" class="svg-area"  data-area="2"/></a>
         
         <a class="svg-link" href="/rooms/01-04-sanuzel"><path d="M8203.5823,6225 L10463.2923,6225 L10463.2923,4640 L8203.5823,4640 Z" style="stroke-width:0.001;" class="svg-area" data-area="4"/></a>
         
-        <path d="M6138.5823,8350 L10463.5823,8350 L10463.5823,6340 L8088.5823,6340 L8088.5823,4420 L6138.5823,4420 Z" style="stroke-width:0.001;" class="svg-area" data-area="3"/>
+        <a class="svg-link" href="/rooms/01-03-holl"><path d="M6138.5823,8350 L10463.5823,8350 L10463.5823,6340 L8088.5823,6340 L8088.5823,4420 L6138.5823,4420 Z" style="stroke-width:0.001;" class="svg-area" data-area="3"/></a>
         
-        <path d="M6138.5823,11465 L10463.4569,11465 L10463.4569,8465 L6138.5823,8465 Z" style="stroke-width:0.001;" class="svg-area" data-area="7"/>
+        <a class="svg-link" href="/rooms/01-07-gspalnya"><path d="M6138.5823,11465 L10463.4569,11465 L10463.4569,8465 L6138.5823,8465 Z" style="stroke-width:0.001;" class="svg-area" data-area="7"/></a>
         
         <path d="M6313.5823,1615.0001 L8763.583,1615.0001 L8763.583,-354.9999 L6243.5884,-354.9999 L6243.5884,575 L6313.5823,575 Z" style="stroke-width:0.001;" class="svg-area" data-area="9"/>
         
