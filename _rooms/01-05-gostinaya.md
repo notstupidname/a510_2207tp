@@ -33,13 +33,13 @@ data:
     url: https://www.italonceramica.ru/ru/kollektsii/loft/murlend/?producttype=gres
     pic: /images/01-05-gostinaya-1.jpg
   - name: Матовая краска
-    url: https://tikkurila.ru/dlya-professionalov/cveta/x376-x376
+    url: https://tikkurila.ru/dlya-professionalov/cveta/v367-v367
     pic: /images/01-05-gostinaya-2.jpg
-  - name: Камень для подоконника
-    url: https://www.worldofquartz.ru/catalog/kvarcevyj-kamen/belenco/1123-perla/
-    pic: /images/01-05-gostinaya-3.jpg
   - name: Камень для портала камина
     url: https://www.worldofquartz.ru/catalog/naturalnyy-kamen/kvartsit-esmeralda-esmeralda/
+    pic: /images/01-05-gostinaya-3.jpg
+  - name: Камень для подоконника
+    url: https://www.worldofquartz.ru/catalog/kvarcevyj-kamen/belenco/1123-perla/
     pic: /images/01-05-gostinaya-4.jpg
 - id: Детали
   content:

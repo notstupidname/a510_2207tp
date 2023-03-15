@@ -93,7 +93,7 @@ data:
     pic: /images/01-06-kuhnya-20.jpg
     num: 6
   - name: Стол
-    url: https://unikamoblar.ru/catalog/stoly/stol-obedennyy-raskladnoy-tynd-walnut/
+    url: https://skdesign.ru/product/mun-obedennyj-stol-amerikanskij-oreh?pa_table-size=160-h-80-sm
     pic: /images/01-06-kuhnya-21.jpg
     num: 1
 - id: Светильники
