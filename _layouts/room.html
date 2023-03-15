@@ -4,7 +4,7 @@
     <body class="is-loading">
         {% include custom_header.html %}
         {% include custom_nav.html %}
-        <main class="flex-stack">
+            <main class="flex-stack">
             <header class="stack">
                 {% include breadcrumbs.html %}
                 <h1>{{ page.name }}</h1>
@@ -12,43 +12,53 @@
             <div class="project-wrapper">
                 <section class="project-plans flex-stack">
                     {%- if page.dxf -%}
-                    {% include_relative {{page.dxf}} %}
+                        {% include_relative {{page.dxf}} %}
+                    {%- else -%}
+                        {% include_relative schema.svg %}
                     {%- endif -%}
                 </section>
                 <section class="project-tables">
                     <div class="stack">
                         {%- for data in page.head -%}
-                            <h3>{{data.name}}</h3>
+                            <h3>{{ data.name }}</h3>
                             {%- for value in data.value -%}
-                            <p>{{value}}</p>
+                                <p>{{ value }}</p>
                             {%- endfor -%}
                         {%- endfor -%}
                     </div>
                 </section>
             </div>
             <!-- <section class="stack">
-                <h2>Развертки стен</h2>
-                <div class="items" style="--grid-gap:var(--space-m-xl);">
-                    {% include_relative {{page.url | split: "/" | last}}_r1.svg %}
-                    {% include_relative {{page.url | split: "/" | last}}_r2.svg %}
-                </div>
+            <h2>Развертки стен</h2>
+            <div class="items" style="--grid-gap:var(--space-m-xl);">
+            {% include_relative {{page.url | split: "/" | last}}_r1.svg %}
+            {% include_relative {{page.url | split: "/" | last}}_r2.svg %}
+            </div>
             </section> -->
             {%- for data_block in page.data -%}
-            <section class="stack">
-                <h2>{{ data_block.id }}</h2>
-                {%- assign size = data_block.content | size -%}
-                <div class="items product{% if size > 3 %} small{%- endif -%}">
-                    {%- for block in data_block.content -%}
-                    <a href={{ block.url }} class="item" target="_blank" rel="nofollow">
-                        <img width="1600" height="1600" src={%- if block.pic == 'empty' -%}/icon-512.png{%- else -%}{{ block.pic }}{%- endif -%}/>
-                        <h2 class="link">{{ block.name }}</h2>
-                    </a>
-                    {%- endfor -%}
-                </div>
-            </section>
+                <section class="stack">
+                    <h2>{{ data_block.id }}</h2>
+                    {%- assign size = data_block.content | size -%}
+                    <div class="items product{% if size > 3 %} small{%- endif -%}">
+                        {%- for block in data_block.content -%}
+                            <a
+                                href={{ block.url }}
+                                class="item"
+                                target="_blank"
+                                rel="nofollow">
+                                <img
+                                    width="1600"
+                                    height="1600"
+                                    src={%- if block.pic == 'empty' -%}/icon-512.png{%- else -%}{{ block.pic }}{%- endif -%} />
+                                <h2 class="link">{{ block.name }}</h2>
+                            </a>
+                        {%- endfor -%}
+                    </div>
+                </section>
             {%- endfor -%}
         </main>
-        {%-unless page.nofooter-%}{% include footer.html %}{%-endunless-%}
+        {%- unless page.nofooter -%}
+            {% include footer.html %}{%- endunless -%}
         {% include scripts.html %}
     </body>
 </html>
