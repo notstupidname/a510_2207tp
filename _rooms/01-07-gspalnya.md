@@ -47,18 +47,26 @@ data:
     num: 1
 - id: Мебель
   content:
-  - name: Кровать
-    url: 
-    pic: empty
+  - name: Кровать на заказ
+    url: https://www.oval-co.ru/preview.html?t=bed
+    pic: /images/01-07-gspalnya-9.jpg
     num: 1
-  - name: Тумба прикроватная
-    url: 
-    pic: empty
+  - name: Тумба прикроватная на заказ
+    url: https://idilliohome.com/
+    pic: /images/01-07-gspalnya-10.jpg
     num: 2
   - name: Пуф MENDINI
     url: https://skdesign.ru/product/mendini-skamja-banketka-otkidnoj-134-44-44-sm-2?pa_fabric=fog-2
     pic: /images/01-07-gspalnya-11.jpg
     num: 1
+  - name: Кресло 
+    url: https://www.laredoute.ru/ppdp/prod-350232671.aspx#shoppingtool=internalcampaign
+    pic: /images/01-07-gspalnya-12.jpg
+    num: 1
+  - name: Шкаф распашной на заказ
+    url: https://idilliohome.com/
+    pic: /images/01-07-gspalnya-13.jpg
+    num: 2
 - id: Светильники
   content:
   - name: Встроенный светильник ATOM
