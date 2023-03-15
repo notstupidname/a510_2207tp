@@ -1267,6 +1267,10 @@ ol.menu .area-link.area-active {
     margin-top: 0.25em;
 }
 
+.project-tables>div h3 {
+    margin-bottom: var(--space-xs);
+}
+
 .items {
     --grid-gap: var(--space-s);
     --grid-min-size: 35ch;
