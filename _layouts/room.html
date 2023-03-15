@@ -31,8 +31,8 @@
             <!-- <section class="stack">
             <h2>Развертки стен</h2>
             <div class="items" style="--grid-gap:var(--space-m-xl);">
-            {% include_relative {{page.url | split: "/" | last}}_r1.svg %}
-            {% include_relative {{page.url | split: "/" | last}}_r2.svg %}
+            { include_relative {{page.url | split: "/" | last}}_r1.svg }
+            { include_relative {{page.url | split: "/" | last}}_r2.svg }
             </div>
             </section> -->
             {%- for data_block in page.data -%}
