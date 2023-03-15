@@ -10,19 +10,20 @@ name: Санузел
 number: 4
 floor: 1
 
-dxf: 01-04-sanuzel_plan.svg
+dxf: 
 
 head:
 - name: Пол
   value:
   - Керамогранит под дерево
+  - Керамогранит песчаный
 - name: Стены
   value:
   - Керамогранит песчаный
   - Акцентная плитка
 - name: Потолок
   value:
-  - ГКВЛ
+  - ГКЛВ
   - Лепной декор
   - Влагостойкая краска
 
@@ -47,7 +48,7 @@ data:
     num: 1
 - id: Сантехника и аксессуары
   content:
-  - name: Тумба LAUFEN PRO S 480
+  - name: Тумба с раковиной LAUFEN PRO S 480
     url: https://www.laufen.ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/%D1%88%D0%BA%D0%B0%D1%84%D1%87%D0%B8%D0%BA-%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%83-%D0%BF%D0%B5%D1%82%D0%BB%D0%B8-%D1%81%D0%BB%D0%B5%D0%B2%D0%B0-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B0%D1%81%D1%81%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D0%B8-%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8-%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B-815955-H483001095...1?sku=H4830010959991
     pic: /images/01-04-sanuzel-7.jpg
     num: 1
@@ -71,7 +72,7 @@ data:
     url: https://paffoni-shop.ru/shop/gigienicheskie-dushi/smesitel-s-gigienicheskim-dushem-paffoni-tweet-round-zdup110bo
     pic: /images/01-04-sanuzel-12.jpg
     num: 1
-  - name: Душевой трап RGW
+  - name: Душевой трап RGW 600
     url: https://rgw-magazin.ru/trapy-dlya-dusha/rgw-sdr-01-q/?variation_id=1559
     pic: /images/01-04-sanuzel-13.jpg
     num: 1
@@ -97,5 +98,10 @@ data:
     url: https://www.laredoute.ru/ppdp/prod-350079361.aspx?docid=868723#shoppingtool=treestructureguidednavigation&srt=noSorting&shoppingtool=treestructureguidednavigation&pgnt=2
     pic: /images/01-04-sanuzel-20.jpg
     num: 2
+- id: Лепной декор
+  content:
+  - name: Потолочный молдинг CX161
+    url: https://oracdecor.ru/cx161_cornice_moulding
+    pic: /images/01-04-sanuzel-23.jpg
 
 ---
