@@ -10,7 +10,7 @@ name: Гостевая спальня
 number: 7
 floor: 1
 
-dxf: 
+dxf: plan_1_7.svg
 
 head:
 - name: Пол

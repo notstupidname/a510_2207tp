@@ -10,7 +10,7 @@ name: Санузел
 number: 4
 floor: 1
 
-dxf: 
+dxf: plan_1_4.svg
 
 head:
 - name: Пол

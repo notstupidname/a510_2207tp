@@ -10,7 +10,7 @@ name: Кухня-столовая
 number: 6
 floor: 1
 
-dxf: 
+dxf: plan_1_6.svg
 
 head:
 - name: Пол

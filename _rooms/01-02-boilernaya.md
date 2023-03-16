@@ -10,7 +10,7 @@ name: Бойлерная
 number: 2
 floor: 1
 
-dxf: 
+dxf: plan_1_2.svg
 
 head:
 - name: Пол

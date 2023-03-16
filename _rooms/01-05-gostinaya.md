@@ -10,7 +10,7 @@ name: Гостиная
 number: 5
 floor: 1
 
-dxf: 
+dxf: plan_1_5.svg
 
 head:
 - name: Пол

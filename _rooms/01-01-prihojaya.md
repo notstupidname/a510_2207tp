@@ -10,7 +10,7 @@ name: Прихожая
 number: 1
 floor: 1
 
-dxf: 
+dxf: plan_1_1.svg
 
 head:
 - name: Пол
