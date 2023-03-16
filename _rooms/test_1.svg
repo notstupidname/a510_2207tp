@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920mm" height="2110mm" viewBox="-16.0001 -2126.0 1952.0 2142.0" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M1809.9999,324 L1809.9999,824 L1899.9999,824 L1899.9999,324 Z" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="299.9999" y1="910" x2="299.9999" y2="0" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="-0.0001" y1="910" x2="299.9999" y2="910" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="299.9999" y1="910" x2="-0.0001" y2="0" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="299.9999" y1="0" x2="-0.0001" y2="910" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="599.9999" y1="2110" x2="599.9999" y2="910" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="599.9999" y1="910" x2="-0.0001" y2="910" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M754.9999,2110 L-0.0001,2110 L-0.0001,0 L724.9999,0" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1724.9999,0 L1919.9999,0 L1919.9999,1146.587" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1919.9999,1946.587 L1919.9999,2110 L1789.9999,2110" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M754.9999,2110 L1789.9999,2110" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M724.9999,0 L1724.9999,0" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M299.9999,910 L299.9999,2110" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="62.1505" y1="1965.7972" x2="537.8494" y2="1979.5935" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="80.9729" y1="1026.4916" x2="549.7776" y2="1009.2461" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="77.5258" y1="1143.7599" x2="532.542" y2="1074.7785" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="74.0787" y1="1222.6161" x2="546.3305" y2="1181.2273" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="70.6316" y1="1288.1483" x2="549.7776" y2="1364.0279" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="63.7374" y1="1412.3148" x2="539.4363" y2="1426.1111" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="70.6316" y1="1477.8472" x2="549.7776" y2="1602.0137" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="62.1505" y1="1671.2718" x2="537.8494" y2="1685.0681" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="69.0447" y1="1736.8042" x2="548.1907" y2="1860.9707" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="62.1505" y1="1802.3365" x2="537.8494" y2="1940.2993" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1919.9999,1946.587 L1919.9999,1146.587" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <circle cx="572.8545" cy="445.7351" r="250" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>
