@@ -11,7 +11,14 @@
             </header>
             <div class="project-wrapper">
                 <section class="project-plans flex-stack">
-                    {%- if page.dxf -%}
+                    {%- assign flag = 0 -%}
+                    {%- for f in site.collections[1].files -%}
+                        {%- if f.name == page.dxf -%}
+                            {%- assign flag = 1 -%}
+                            {%- break -%}
+                        {%- endif -%}
+                    {%- endfor -%}
+                    {%- if flag == 1 -%}
                         {% include_relative {{page.dxf}} %}
                     {%- else -%}
                         {% include_relative 01-04-sanuzel_plan.svg %}
