@@ -42,6 +42,27 @@
             { include_relative {{page.url | split: "/" | last}}_r2.svg }
             </div>
             </section> -->
+            {%- for data_block in page.data -%}
+                <section class="stack">
+                    <h2>{{ data_block.id }}</h2>
+                    {%- assign size = data_block.content | size -%}
+                    <div class="items product{% if size > 4 %} small{%- endif -%}">
+                        {%- for block in data_block.content -%}
+                            <a
+                                href={{ block.url }}
+                                class="item"
+                                target="_blank"
+                                rel="nofollow">
+                                <img
+                                    width="1600"
+                                    height="1600"
+                                    src={%- if block.pic == 'empty' -%}/icon-512.png{%- else -%}{{ block.pic }}{%- endif -%} />
+                                <h2 class="link">{{ block.name }}</h2>
+                            </a>
+                        {%- endfor -%}
+                    </div>
+                </section>
+            {%- endfor -%}
             <section class="stack">
                 <h2>Визуализации</h2>
                 <div class="gallery">
@@ -67,27 +88,6 @@
                         height="300">
                 </div>
             </section>
-            {%- for data_block in page.data -%}
-                <section class="stack">
-                    <h2>{{ data_block.id }}</h2>
-                    {%- assign size = data_block.content | size -%}
-                    <div class="items product{% if size > 4 %} small{%- endif -%}">
-                        {%- for block in data_block.content -%}
-                            <a
-                                href={{ block.url }}
-                                class="item"
-                                target="_blank"
-                                rel="nofollow">
-                                <img
-                                    width="1600"
-                                    height="1600"
-                                    src={%- if block.pic == 'empty' -%}/icon-512.png{%- else -%}{{ block.pic }}{%- endif -%} />
-                                <h2 class="link">{{ block.name }}</h2>
-                            </a>
-                        {%- endfor -%}
-                    </div>
-                </section>
-            {%- endfor -%}
         </main>
         {%- unless page.nofooter -%}
             {% include footer.html %}{%- endunless -%}
