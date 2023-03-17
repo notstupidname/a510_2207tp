@@ -101,9 +101,9 @@ data:
     pic: /images/02-11-sanuzel-23.jpg
     num: 1
   - name: Встроенный светильник над ванной ATOM
-    url: https://maytoni.ru/catalog/functional/vstraivaemye-svetilniki/dl024-2-02w/
+    url: https://maytoni.ru/catalog/functional/vstraivaemye-svetilniki/dl023-2-01w/
     pic: /images/02-11-sanuzel-24.jpg
-    num: 2
+    num: 3
   - name: Встроенный светильник для душа ZOOM
     url: https://maytoni.ru/catalog/functional/vstraivaemye-svetilniki/dl034-2-l12w/
     pic: /images/02-11-sanuzel-25.jpg

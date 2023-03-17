@@ -89,5 +89,8 @@ data:
   - name: Потолочный карниз C217
     url: https://oracdecor.ru/c217_border
     pic: /images/01-07-gspalnya-22.jpg
+  - name: Молдинг вокруг окна SX187
+    url: https://oracdecor.ru/sx187_cornice_moulding
+    pic: /images/01-07-gspalnya-23.jpg
 
 ---

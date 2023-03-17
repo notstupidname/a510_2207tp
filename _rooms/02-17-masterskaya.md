@@ -49,7 +49,7 @@ data:
     pic: /images/02-17-masterskaya-8.jpg
     num: 1
   - name: Стеллаж большой на заказ
-    url: https://ru.pinterest.com/pin/433753007875842564/
+    url: https://woodpower.ru/foto-mebel
     pic: /images/02-17-masterskaya-9.jpg
     num: 1
   - name: Стеллаж малый

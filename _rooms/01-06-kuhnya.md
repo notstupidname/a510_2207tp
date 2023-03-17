@@ -118,5 +118,8 @@ data:
   - name: Потолочный карниз CX106
     url: https://oracdecor.ru/cx106_cornice_moulding
     pic: /images/01-06-kuhnya-30.jpg
+  - name: Молдинг вокруг окна SX187
+    url: https://oracdecor.ru/sx187_cornice_moulding
+    pic: /images/01-06-kuhnya-31.jpg
 
 ---
