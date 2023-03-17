@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="11990mm" height="14938.365mm" viewBox="-1276.4177 -15115.0 12290.0 15238.365" version="1.1" class="svg-drawing">
     <g transform="scale(1,-1)">
 
-        <path d="M4198.5823,9905 L5763.5823,9905 L5763.5823,7605 L4198.5823,7605 Z" style="stroke-width:0.001;" class="svg-area" data-area="16"/>
+        <a class="svg-link" href="/rooms/02-16-garderob"><path d="M4198.5823,9905 L5763.5823,9905 L5763.5823,7605 L4198.5823,7605 Z" style="stroke-width:0.001;" class="svg-area" data-area="16"/></a>
         
-        <path d="M1288.5823,5940 L2718.5823,5940 L2718.5823,6205 L4083.5823,6205 L4083.5823,4630 L1288.5823,4630 L1288.5823,5940" style="stroke-width:0.001;" class="svg-area" data-area="14"/>
+        <a class="svg-link" href="/rooms/02-14-mastergarderob"><path d="M1288.5823,5940 L2718.5823,5940 L2718.5823,6205 L4083.5823,6205 L4083.5823,4630 L1288.5823,4630 L1288.5823,5940" style="stroke-width:0.001;" class="svg-area" data-area="14"/></a>
         
-        <path d="M1288.5823,4515 L5763.5823,4515 L5763.5823,1125 L1288.5823,1125 Z" style="stroke-width:0.001;" class="svg-area" data-area="13"/>
+        <a class="svg-link" href="/rooms/02-13-masterspalnya"><path d="M1288.5823,4515 L5763.5823,4515 L5763.5823,1125 L1288.5823,1125 Z" style="stroke-width:0.001;" class="svg-area" data-area="13"/></a>
         
-        <path d="M6138.5823,4515 L8088.5823,4515 L8088.5823,2165 L6138.5823,2165 L6138.5823,3055 L5878.5823,3055 L5878.5823,3855 L6138.5823,3855 Z" style="stroke-width:0.001;" class="svg-area" data-area="12"/>
+        <a class="svg-link" href="/rooms/02-12-postirochnaya"><path d="M6138.5823,4515 L8088.5823,4515 L8088.5823,2165 L6138.5823,2165 L6138.5823,3055 L5878.5823,3055 L5878.5823,3855 L6138.5823,3855 Z" style="stroke-width:0.001;" class="svg-area" data-area="12"/></a>
         
         <path d="M8223.5823,5805 L8223.5823,6205" style="stroke-width:var(--lw-3);" />
         
-        <path d="M8203.5823,6225 L10463.5823,6225 L10463.5824,2165 L8468.5823,2165 L8468.5823,3595 L8203.5823,3595 Z" style="stroke-width:0.001;" class="svg-area" data-area="11"/>
+        <a class="svg-link" href="/rooms/02-11-sanuzel"><path d="M8203.5823,6225 L10463.5823,6225 L10463.5824,2165 L8468.5823,2165 L8468.5823,3595 L8203.5823,3595 Z" style="stroke-width:0.001;" class="svg-area" data-area="11"/></a>
         
-        <path d="M373.5823,9905 L4083.5823,9905 L4083.5823,6320 L373.5823,6320 Z" style="stroke-width:0.001;" class="svg-area" data-area="15"/>
+        <a class="svg-link" href="/rooms/02-15-detskaya"><path d="M373.5823,9905 L4083.5823,9905 L4083.5823,6320 L373.5823,6320 Z" style="stroke-width:0.001;" class="svg-area" data-area="15"/></a>
         
-        <path d="M6138.5823,11465 L10513.5823,11465 L10513.5823,8465 L6138.5823,8465 Z" style="stroke-width:0.001;" class="svg-area" data-area="17"/>
+        <a class="svg-link" href="/rooms/02-17-masterskaya"><path d="M6138.5823,11465 L10513.5823,11465 L10513.5823,8465 L6138.5823,8465 Z" style="stroke-width:0.001;" class="svg-area" data-area="17"/></a>
         
-        <path d="M6138.5823,8350 L7762.2562,8350 L7762.2562,7450 L8363.5823,7450 L8363.5823,6340 L8088.5823,6340 L8088.5823,4630 L6138.5823,4630 L6138.5823,4760 L5763.5823,4760 L5763.5823,4630 L4198.5823,4630 L4198.5823,7490 L5763.5823,7490 L5763.5823,7360.0001 L6138.5823,7360.0001 Z" style="stroke-width:0.001;" class="svg-area" data-area="10"/>
+        <a class="svg-link" href="/rooms/02-10-holl"><path d="M6138.5823,8350 L7762.2562,8350 L7762.2562,7450 L8363.5823,7450 L8363.5823,6340 L8088.5823,6340 L8088.5823,4630 L6138.5823,4630 L6138.5823,4760 L5763.5823,4760 L5763.5823,4630 L4198.5823,4630 L4198.5823,7490 L5763.5823,7490 L5763.5823,7360.0001 L6138.5823,7360.0001 Z" style="stroke-width:0.001;" class="svg-area" data-area="10"/></a>
         
         <path d="M9563.5823,11795 L7093.5823,11795" style="stroke-width:var(--lw-1);" />
         

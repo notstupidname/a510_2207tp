@@ -15,42 +15,129 @@ page-short-title: Помещения
         <section class="project-plans flex-stack">
             {% include_relative plan1.svg %}
         </section>
-        
+        {% for room in site.rooms %}
+            {{ room.path }}
+        {% endfor %}
         <section class="project-tables center">
             <div class="flex-stack">
                 <h2>1-й этаж</h2>
                 <ol class="menu">
-                    <li><a class="link area-link" data-area="1" href="/rooms/01-01-prihojaya">Прихожая</a></li>
-                    <li><a class="link area-link" data-area="2" href="/rooms/01-02-boilernaya">Бойлерная</a></li>
-                    <li><a class="link area-link" data-area="3" href="/rooms/01-03-holl">Холл</a></li>
-                    <li><a class="link area-link" data-area="4" href="/rooms/01-04-sanuzel">Санузел</a></li>
-                    <li><a class="link area-link" data-area="5" href="/rooms/01-05-gostinaya">Гостиная</a></li>
-                    <li><a class="link area-link" data-area="6" href="/rooms/01-06-kuhnya">Кухня</a></li>
-                    <li><a class="link area-link" data-area="7" href="/rooms/01-07-gspalnya">Спальня</a></li>
-                    <li><a class="link area-link" data-area="8" href="#">Терраса</a></li>
-                    <li><a class="link area-link" data-area="9" href="#">Крыльцо</a></li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="1"
+                            href="/rooms/01-01-prihojaya">Прихожая</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="2"
+                            href="/rooms/01-02-boilernaya">Бойлерная</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="3"
+                            href="/rooms/01-03-holl">Холл</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="4"
+                            href="/rooms/01-04-sanuzel">Санузел</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="5"
+                            href="/rooms/01-05-gostinaya">Гостиная</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="6"
+                            href="/rooms/01-06-kuhnya">Кухня</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="7"
+                            href="/rooms/01-07-gspalnya">Спальня</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="8"
+                            href="#">Терраса</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="9"
+                            href="#">Крыльцо</a>
+                    </li>
                 </ul>
             </div>
         </section>
         <section class="project-plans flex-stack">
             {% include_relative plan2.svg %}
         </section>
-        
+
         <section class="project-tables center">
             <div class="flex-stack">
                 <h2>2-й этаж</h2>
                 <ol class="menu" start="10">
-                    <li><a class="link area-link" data-area="10" href="/rooms/02-10-holl">Холл</a></li>
-                    <li><a class="link area-link" data-area="11" href="/rooms/02-11-sanuzel">Санузел</a></li>
-                    <li><a class="link area-link" data-area="12" href="/rooms/02-12-postirochnaya">Постирочная</a></li>
-                    <li><a class="link area-link" data-area="13" href="#">Мастер спальня</a></li>
-                    <li><a class="link area-link" data-area="14" href="#">Мастер гардеробная</a></li>
-                    <li><a class="link area-link" data-area="15" href="#">Детская</a></li>
-                    <li><a class="link area-link" data-area="16" href="#">Детская гардеробная</a></li>
-                    <li><a class="link area-link" data-area="17" href="/rooms/02-17-masterskaya">Мастерская</a></li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="10"
+                            href="/rooms/02-10-holl">Холл</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="11"
+                            href="/rooms/02-11-sanuzel">Санузел</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="12"
+                            href="/rooms/02-12-postirochnaya">Постирочная</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="13"
+                            href="/rooms/02-13-masterspalnya">Мастер спальня</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="14"
+                            href="/rooms/02-14-mastergarderob">Мастер гардеробная</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="15"
+                            href="/rooms/02-15-detskaya">Детская</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="16"
+                            href="/rooms/02-16-garderob">Детская гардеробная</a>
+                    </li>
+                    <li>
+                        <a
+                            class="link area-link"
+                            data-area="17"
+                            href="/rooms/02-17-masterskaya">Мастерская</a>
+                    </li>
                 </ul>
             </div>
         </section>
     </div>
-    
+
 </main>
