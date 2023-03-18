@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2180mm" height="2320.0081mm" viewBox="-16.0 -2336.0082 2212.0 2352.0081" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M895,0 L2055,0" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M1395,2320.0081 L2180,2320.0081 L2180,0.0081 L2055,0.0081" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M895,0.0082 L260,0.0082 L260,890.0082 L0,890.0082 L0,1660.0081 L260,1660.0081 L260,2320.0081 L495,2320.0081" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M260,890.0082 L260.0001,1660.0081" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M495,2320.0081 L1395,2320.0081" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M1560.4533,1697.5727 L2160.4533,1697.5727 L2160.4533,1097.5727 L1560.4533,1097.5727 Z" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <circle cx="1860.4533" cy="1397.5727" r="150.4966" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M1560.4533,2297.5727 L2160.4533,2297.5727 L2160.4533,1697.5727 L1560.4533,1697.5727 Z" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <circle cx="1860.4533" cy="1997.5727" r="150.4966" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M0,1660.0081 L260,890.0082" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M260.0001,1660.0081 L0,890.0082" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1880,2320.0082 L1880,567.9037" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M1530,2320.0082 L1530,20" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1880,567.9037 L2180,567.9037" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M962.5227,110 L1462.5227,110 L1462.5227,20 L962.5227,20 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2070.0526,810.6778 L2070.0526,605.6778 L1570.0526,605.6778 L1570.0526,1055.6778 L2070.0526,1055.6778 L2070.0526,850.6778" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1963.6989" y1="810.6778" x2="1963.6989" y2="850.6778" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1963.6989" y1="850.6778" x2="2143.2304" y2="850.6778" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="2143.2304" y1="810.6778" x2="1963.6989" y2="810.6778" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2143.2304,850.6778 L2143.2304,810.6778" style="stroke-width:var(--lw-3);" />
+        
+        <circle cx="1883.4695" cy="830.6778" r="29.5009" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1980,567.9037 L1980,20" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M1530,20 L2180,20" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="374.9532" y1="1044.9547" x2="374.9532" y2="159.5876" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="374.9532" y1="159.5876" x2="379.3075" y2="141.3643" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="379.3075" y1="141.3643" x2="391.6691" y2="127.9376" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="391.6691" y1="127.9376" x2="410.9869" y2="119.639" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="410.9869" y1="119.639" x2="436.2103" y2="116.7991" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="436.2103" y1="116.7991" x2="770.1011" y2="116.7991" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="770.1011" y1="116.7991" x2="792.1564" y2="119.7961" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="792.1564" y1="119.7961" x2="808.9447" y2="128.5481" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="808.9447" y1="128.5481" x2="819.6309" y2="142.6959" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="819.6309" y1="142.6959" x2="823.3778" y2="161.88" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="823.3778" y1="161.88" x2="823.3778" y2="1044.9547" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="823.3778" y1="1044.9547" x2="805.8617" y2="1146.8243" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="805.8617" y1="1146.8243" x2="767.325" y2="1226.8891" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="767.325" y1="1226.8891" x2="728.7888" y2="1279.2523" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="728.7888" y1="1279.2523" x2="711.2718" y2="1298.017" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="711.2718" y1="1298.017" x2="656.0154" y2="1328.4508" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="656.0154" y1="1328.4508" x2="599.1655" y2="1338.5956" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="599.1655" y1="1338.5956" x2="542.3165" y2="1328.4508" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="542.3165" y1="1328.4508" x2="487.0596" y2="1298.017" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="487.0596" y1="1298.017" x2="469.5426" y2="1279.2523" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="469.5426" y1="1279.2523" x2="431.0064" y2="1226.8891" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="431.0064" y1="1226.8891" x2="392.4697" y2="1146.8243" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="392.4697" y1="1146.8243" x2="374.9532" y2="1044.9547" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="486.4196" y1="116.7991" x2="486.4196" y2="116.6211" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="532.5677" y1="116.7991" x2="532.5677" y2="116.6211" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="613.0371" y1="116.7991" x2="613.0371" y2="116.6211" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="659.1557" y1="116.7991" x2="659.1557" y2="116.6211" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>

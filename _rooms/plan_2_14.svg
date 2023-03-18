@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2765mm" height="1545mm" viewBox="-16.0 -1561.0 2797.0 1577.0" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M1175,0 L0,0 L0,1280 L1430,1280 L1430,1545 L2765,1545 L2765,0 L1975,0" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1175,0 L1975,0" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M550,1280 L550,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,1280 L550,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,0 L550,1280" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2215,1545 L2215,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2215,1545 L2765,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2765,1545 L2215,0" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1430,1280 L2215,1280" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1430,1545 L2215,1280" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2215,1545 L1430,1280" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>
