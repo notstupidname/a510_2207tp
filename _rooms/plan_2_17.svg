@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4345mm" height="2985.0579mm" viewBox="-16.0001 -3001.0579 4377.0 3017.0579" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M939.9999,2985.0579 L3409.9999,2985.0579" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M504.9999,15 L-0.0001,15 L-0.0001,2984.976 L939.9999,2984.976" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M3409.9999,2984.976 L4344.9999,2984.976 L4344.9999,15 L1404.9999,15" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1404.9999,0 L1404.9999,15" style="stroke-width:var(--lw-1);" />
+        
+        <path d="M504.9999,15 L1404.9999,15" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M3174.9999,2875.0579 L1174.9999,2875.0579 L1174.9999,2965.0579 L3174.9999,2965.0579 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M399.9999,15 L399.9999,2984.976" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M399.9999,1499.988 L-0.0001,1499.988" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M399.9999,1499.988 L-0.0001,2984.976" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M399.9999,2984.976 L-0.0001,1499.988" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M399.9999,15 L-0.0001,1499.988" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M399.9999,1499.988 L-0.0001,15" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1949.9999" y1="1869.3423" x2="2399.9999" y2="1869.3423" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="2399.9999" y1="1869.3423" x2="2399.9999" y2="1694.3423" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2399.9999,1694.3423 A225,225 159.3738 0 0 1949.9999,1694.3423" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1949.9999" y1="1694.3423" x2="1949.9999" y2="1869.3423" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2449.9999,1694.3423 A275,275 69.3738 0 0 1899.9999,1694.3423" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1174.9999" y1="1928.6307" x2="3074.9999" y2="1928.6307" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1174.9999" y1="1928.6307" x2="3174.9999" y2="1928.6307" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="3174.9999" y1="1928.6307" x2="3174.9999" y2="2828.6307" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="3174.9999" y1="2828.6307" x2="1174.9999" y2="2828.6307" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1174.9999" y1="2828.6307" x2="1174.9999" y2="1928.6307" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="3444.9999" y1="1615" x2="3444.9999" y2="15" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="4344.9999" y1="1615" x2="3444.9999" y2="1615" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="3444.9999" y1="1465" x2="4194.9999" y2="1465" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="3444.9999" y1="165" x2="4194.9999" y2="165" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="4194.9999" y1="1465" x2="4194.9999" y2="165" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3944.9999,1984.976 L3944.9999,15" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M3944.9999,2984.976 L4344.9999,2984.976 L4344.9999,1984.976 L3944.9999,1984.976 Z" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>

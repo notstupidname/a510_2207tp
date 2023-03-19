@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1535mm" height="2270mm" viewBox="-16.0 -2286.0 1567.0 2302.0" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M0,1254.9991 L0,2270 L1535,2270 L1535,0 L0,0 L0,454.9991" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M0,1254.9991 L0,454.9991" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M49.1741,429.7443 L749.1741,429.7443 L749.1741,29.7443 L49.1741,29.7443 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M785.8216,429.7443 L1485.8216,429.7443 L1485.8216,29.7443 L785.8216,29.7443 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M785.8216,2270 L1485.8216,2270 L1485.8216,1770 L785.8216,1770 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M49.1741,2270 L749.1741,2270 L749.1741,1770 L49.1741,1770 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M49.1741,2270 L749.1741,1770" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M749.1741,2270 L49.1741,1770" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M785.8216,2270 L1485.8216,1770" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1485.8216,2270 L785.8216,1770" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M49.1741,429.7443 L749.1741,29.7443" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M749.1741,429.7443 L49.1741,29.7443" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M785.8216,429.7443 L1485.8216,29.7443" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1485.8216,429.7443 L785.8216,29.7443" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1535" y1="699.8721" x2="1495" y2="699.8721" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1495" y1="699.8721" x2="1495" y2="1499.8721" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1495" y1="1499.8721" x2="1535" y2="1499.8721" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>
