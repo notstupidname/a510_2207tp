@@ -1385,7 +1385,7 @@ a:not(.button):not(.link):not(.svg-link):hover svg {
 
 .gallery img {
     width: 100%;
-    --webkit-mask-size: cover;
+    -webkit-mask-size: cover;
     mask-size: cover;
 }
 

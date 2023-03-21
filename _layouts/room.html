@@ -63,26 +63,40 @@
                     <div class="gitem">
                         <img
                             src="/images/gallery/{{ name }}-pic-1.jpg"
-                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-1.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-1.png');">
+                            style="-webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-1.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-1.png');">
                     </div>
                     <div class="gitem">
                         <img
                             src="/images/gallery/{{ name }}-pic-2.jpg"
-                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-2.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-2.png');">
+                            style="-webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-2.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-2.png');">
                     </div>
                 </div>
                 <div class="gallery">
                     <div class="gitem">
                         <img
                             src="/images/gallery/{{ name }}-pic-3.jpg"
-                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-3.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-3.png');">
+                            style="-webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-3.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-3.png');">
                     </div>
                     <div class="gitem">
                         <img
                             src="/images/gallery/{{ name }}-pic-4.jpg"
-                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-4.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-4.png');">
+                            style="-webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-4.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-4.png');">
                     </div>
                 </div>
+                {%- if page.six -%}
+                <div class="gallery">
+                    <div class="gitem">
+                        <img
+                            src="/images/gallery/{{ name }}-pic-5.jpg"
+                            style="-webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-5.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-5.png');">
+                    </div>
+                    <div class="gitem">
+                        <img
+                            src="/images/gallery/{{ name }}-pic-6.jpg"
+                            style="-webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-6.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-6.png');">
+                    </div>
+                </div>
+                {%- endif -%}
             </section>
         </main>
         {%- unless page.nofooter -%}
