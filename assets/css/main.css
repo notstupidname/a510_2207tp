@@ -1381,7 +1381,6 @@ a:not(.button):not(.link):not(.svg-link):hover svg {
 .gallery {
     display: flex;
     gap: var(--space-m-l);
-    margin-top: var(--space-l-xl);
 }
 
 .gallery img {

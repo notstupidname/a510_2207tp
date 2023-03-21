@@ -35,13 +35,6 @@
                     </div>
                 </section>
             </div>
-            <!-- <section class="stack">
-            <h2>Развертки стен</h2>
-            <div class="items" style="--grid-gap:var(--space-m-xl);">
-            { include_relative {{page.url | split: "/" | last}}_r1.svg }
-            { include_relative {{page.url | split: "/" | last}}_r2.svg }
-            </div>
-            </section> -->
             {%- for data_block in page.data -%}
                 <section class="stack">
                     <h2>{{ data_block.id }}</h2>
@@ -56,7 +49,7 @@
                                 <img
                                     width="1600"
                                     height="1600"
-                                    src={%- if block.pic == 'empty' -%}/icon-512.png{%- else -%}{{ block.pic }}{%- endif -%} />
+                                    src="{%- if block.pic == 'empty' -%}/icon-512.png{%- else -%}{{ block.pic }}{%- endif -%}" />
                                 <h2 class="link">{{ block.name }}</h2>
                             </a>
                         {%- endfor -%}
@@ -65,16 +58,29 @@
             {%- endfor -%}
             <section class="stack">
                 <h2>Визуализации</h2>
+                {%- assign name = page.url | split: '/' | last -%}
                 <div class="gallery">
                     <div class="gitem">
                         <img
-                            src="/images/gallery/pic_1.jpg"
-                            style="--webkit-mask-image:url('/images/gallery/mask_1.png');mask-image:url('/images/gallery/mask_1.png');">
+                            src="/images/gallery/{{ name }}-pic-1.jpg"
+                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-1.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-1.png');">
                     </div>
                     <div class="gitem">
                         <img
-                            src="/images/gallery/pic_2.jpg"
-                            style="--webkit-mask-image:url(/images/gallery/mask_2.png);mask-image:url(/images/gallery/mask_2.png);">
+                            src="/images/gallery/{{ name }}-pic-2.jpg"
+                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-2.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-2.png');">
+                    </div>
+                </div>
+                <div class="gallery">
+                    <div class="gitem">
+                        <img
+                            src="/images/gallery/{{ name }}-pic-3.jpg"
+                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-3.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-3.png');">
+                    </div>
+                    <div class="gitem">
+                        <img
+                            src="/images/gallery/{{ name }}-pic-4.jpg"
+                            style="--webkit-mask-image:url('/images/gallery/mask/{{ name }}-pic-4.png');mask-image:url('/images/gallery/mask/{{ name }}-pic-4.png');">
                     </div>
                 </div>
             </section>
