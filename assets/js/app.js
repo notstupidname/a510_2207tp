@@ -213,6 +213,15 @@ const areaLinks = document.querySelectorAll('.area-link');
 const svgAreas = document.querySelectorAll('.svg-area');
 const shareButton = document.querySelector('#share_button');
 
+shareButton.addEventListener('click', function(e){
+    e.preventDefault();
+    navigator.share({
+        title: document.title,
+        text: "2207 - Толстопальцево - Дизайн интерьера",
+        url: window.location,
+    });
+});
+
 for (const areaLink of areaLinks){
     areaLink.addEventListener('mouseover',function(e){
         const areaNumber = this.dataset.area;
