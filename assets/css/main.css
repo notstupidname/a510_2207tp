@@ -1341,11 +1341,11 @@ main>section:first-of-type {
 }
 
 .index-body .svg-drawing a:hover>.svg-door {
-    fill: var(--mid-color);
+    fill: rgba(0, 92, 67, 0.95);
 }
 
 .index-body .svg-drawing .svg-trigger:hover~a .svg-door {
-    fill: rgba(0, 0, 255, 0.7);
+    fill: rgba(0, 92, 67, 0.7);
 }
 
 .penis {
