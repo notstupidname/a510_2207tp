@@ -1375,67 +1375,25 @@ a:not(.button):not(.link):not(.svg-link):hover {
 a:not(.button):not(.link):not(.svg-link):hover svg {
     stroke: var(--mid-color);
     color: var(--mid-color);
+    fill: var(--mid-color);
 }
 
 .gallery {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    display: flex;
     gap: var(--space-m-l);
-    grid-auto-flow: dense;
     margin-top: var(--space-l-xl);
 }
 
 .gallery img {
     width: 100%;
+    --webkit-mask-size: cover;
+    mask-size: cover;
 }
 
-.gallery>.big {
-    grid-column: span 6;
-}
-
-.gallery>.medium {
-    grid-column: span 3;
-}
-
-.gallery>.small {
-    grid-column: span 2;
-}
-
-@media screen and (max-width: 1280px) {
-
-    .gallery {
-        grid-template-columns: 1fr 1fr;
-    }
-
-    .gallery>.big {
-        grid-column: span 2;
-    }
-
-    .gallery>.medium {
-        grid-column: span 2;
-    }
-
-    .gallery>.small {
-        grid-column: span 1;
-    }
-}
 
 @media screen and (max-width: 700px) {
 
     .gallery {
-        grid-template-columns: 1fr;
+        flex-wrap: wrap;
     }
-
-    .gallery>.big {
-        grid-column: span 1;
-    }
-
-    .gallery>.medium {
-        grid-column: span 1;
-    }
-
-    .gallery>.small {
-        grid-column: span 1;
-    }
-
 }

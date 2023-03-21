@@ -211,6 +211,7 @@ for (const form of formsAll) {
 // 2207_TP
 const areaLinks = document.querySelectorAll('.area-link');
 const svgAreas = document.querySelectorAll('.svg-area');
+const shareButton = document.querySelector('#share_button');
 
 for (const areaLink of areaLinks){
     areaLink.addEventListener('mouseover',function(e){

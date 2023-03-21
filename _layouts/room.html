@@ -66,32 +66,22 @@
             <section class="stack">
                 <h2>Визуализации</h2>
                 <div class="gallery">
-                    <img
-                        src="/images/gallery/bedroom_01.jpg"
-                        class="big fw"
-                        width="400"
-                        height="300"
-                        loading="lazy">
-                    <img
-                        src="/images/gallery/bedroom_02.jpg"
-                        class="big fw"
-                        width="400"
-                        height="300">
-                    <img
-                        src="/images/gallery/bedroom_01_v.jpg"
-                        class="medium fw"
-                        width="400"
-                        height="300">
-                    <img
-                        src="/images/gallery/bedroom_03_v.jpg"
-                        class="medium fw"
-                        width="400"
-                        height="300">
+                    <div class="gitem">
+                        <img
+                            src="/images/gallery/pic_1.jpg"
+                            style="--webkit-mask-image:url('/images/gallery/mask_1.png');mask-image:url('/images/gallery/mask_1.png');">
+                    </div>
+                    <div class="gitem">
+                        <img
+                            src="/images/gallery/pic_2.jpg"
+                            style="--webkit-mask-image:url(/images/gallery/mask_2.png);mask-image:url(/images/gallery/mask_2.png);">
+                    </div>
                 </div>
             </section>
         </main>
         {%- unless page.nofooter -%}
             {% include footer.html %}{%- endunless -%}
-        {% include scripts.html %}
+        {% include scripts.html %}</body>
+        </body>
     </body>
 </html>
