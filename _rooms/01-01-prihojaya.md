@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 01 Прихожая
 description: Проект 2207_ТП - 01 Прихожая
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 01-01-Прихожая
