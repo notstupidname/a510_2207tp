@@ -16,36 +16,17 @@
 }
 
 html {
-    color-scheme: light dark;
+    color-scheme: light;
 }
 
 /* Light */
 :root {
     --text-color: #100e11;
-    --back-color: #fcfbf9;
+    --back-color: #fff;
     --mid-color: #666;
     --font-weight: 375;
     --font-weight-light: 350;
     --font-weight-semibold: 450;
-}
-
-/* Dark */
-@media(prefers-color-scheme: dark) {
-    :root {
-        --text-color: #fcfbf9;
-        --back-color: #100e11;
-        --font-weight: 300;
-        --font-weight-light: 250;
-        --font-weight-semibold: 350;
-    }
-
-    img.plan {
-        filter: invert(1);
-    }
-
-    img {
-        filter: brightness(.9) contrast(1.1) saturate(.9);
-    }
 }
 
 :root {
@@ -1380,7 +1361,8 @@ a:not(.button):not(.link):not(.svg-link):hover svg {
 
 .gallery {
     display: flex;
-    gap: var(--space-m-l);
+    gap: var(--space-xl-2xl);
+    margin-block-start: var(--space-xl-2xl);
 }
 
 .gallery img {

@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 07 Гостевая спальня
 description: Проект 2207_ТП - 07 Гостевая спальня
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 01-07-Гостевая спальня

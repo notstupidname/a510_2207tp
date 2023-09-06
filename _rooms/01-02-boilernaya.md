@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 02 Бойлерная
 description: Проект 2207_ТП - 02 Бойлерная
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 01-02-Бойлерная

@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 06 Кухня-столовая
 description: Проект 2207_ТП - 06 Кухня-столовая
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 01-06-Кухня-столовая

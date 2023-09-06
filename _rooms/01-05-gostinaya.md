@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 05 Гостиная
 description: Проект 2207_ТП - 05 Гостиная
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 01-05-Гостиная

@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 04 Санузел
 description: Проект 2207_ТП - 04 Санузел
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 01-04-Санузел

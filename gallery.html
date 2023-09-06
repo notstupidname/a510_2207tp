@@ -1,0 +1,48 @@
+---
+title: 2207 - Толстопальцево
+description: 2207 - Толстопальцево - Дизайн интерьера
+layout: custom
+permalink: /gallery/
+
+page-short-title: Галерея
+---
+<main class="flex-stack">
+    <header>
+        {% include breadcrumbs.html %}
+        <h1>Галерея</h1>
+    </header>
+    <section class="stack">
+        {%- for room in site.rooms -%}
+            <h2>{{ room.name }}</h2>
+            {%- assign name = room.url | split: '/' | last -%}
+            <div class="gallery">
+                <div class="gitem">
+                    <img src="/images/gallery/{{ name }}-pic-1.jpg">
+                </div>
+                <div class="gitem">
+                    <img src="/images/gallery/{{ name }}-pic-2.jpg">
+                </div>
+            </div>
+            <div class="gallery">
+                <div class="gitem">
+                    <img src="/images/gallery/{{ name }}-pic-3.jpg">
+                </div>
+                <div class="gitem">
+                    <img src="/images/gallery/{{ name }}-pic-4.jpg">
+                </div>
+            </div>
+            {%- if room.six -%}
+                <div class="gallery">
+                    <div class="gitem">
+                        <img src="/images/gallery/{{ name }}-pic-5.jpg">
+                    </div>
+                    <div class="gitem">
+                        <img src="/images/gallery/{{ name }}-pic-6.jpg">
+                    </div>
+                </div>
+            {%- endif -%}
+            <hr>
+        {%- endfor -%}
+    </section>
+
+</main>
