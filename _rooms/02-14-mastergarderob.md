@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 14 Мастер гардеробная
 description: Проект 2207_ТП - 14 Мастер гардеробная
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 02-14-Мастер гардеробная

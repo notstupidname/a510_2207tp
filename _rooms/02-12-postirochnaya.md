@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 12 Постирочная
 description: Проект 2207_ТП - 12 Постирочная
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 02-12-Постирочная

@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 13 Мастер спальня
 description: Проект 2207_ТП - 13 Мастер спальня
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 02-13-Мастер спальня

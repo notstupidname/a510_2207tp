@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 16 Гардеробная 
 description: Проект 2207_ТП - 16 Гардеробная 
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 02-16-Гардеробная 

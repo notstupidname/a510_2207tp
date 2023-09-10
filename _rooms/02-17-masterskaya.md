@@ -2,7 +2,7 @@
 title: Проект 2207_ТП - 17 Мастерская
 description: Проект 2207_ТП - 17 Мастерская
 
-layout: room
+layout: room_png
 permalink: /rooms/:path
 
 page-short-title: 02-17-Мастерская
