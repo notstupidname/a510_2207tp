@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1329.5mm" height="1800.1083mm" viewBox="-16.0 -1816.1083 1361.5 1832.1083" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M0,1300.1083 L0,1800.1083 L1329.5,1800.1083 L1329.5,0.1083 L0,0.1083 L0,500.1083" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M0,500.1083 L0,1300.1083" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <circle cx="446.8685" cy="1564.7036" r="192.5431" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,1350.1083 L1329.5,1350.1083" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M629.3685,297.5 L629.3685,0 L264.3685,0 L264.3685,297.5 A182.5,182.5 0 0 0 629.3685,297.5" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>

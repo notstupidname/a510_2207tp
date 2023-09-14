@@ -1237,7 +1237,7 @@ ol.menu .area-link.area-active {
 .project-wrapper {
     /* margin: var(--space-l-xl) 0 0; */
     margin: 0;
-    gap: var(--space-l) var(--space-xl);
+    gap: var(--space-2xl) var(--space-xl);
 }
 
 .project-tables {

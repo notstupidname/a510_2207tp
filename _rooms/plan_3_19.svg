@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2849.9998mm" height="2645.0001mm" viewBox="-15.9999 -2661.0001 2881.9998 2677.0001" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M555,2645.0001 L0.0001,2645.0001 L0.0001,0 L2849.9999,0 L2849.9999,2645.0001 L1355,2645.0001" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M555,2645.0001 L1355,2645.0001" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M1355,145.0001 L1495,145.0001 L1495,5.0001 L1355,5.0001 Z" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M400.0001,1825 L0.0001,1825 L0.0001,2645.0001 L400.0001,2645.0001 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0.0001,685 L2249.9999,685" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1650.0001" y1="782.2693" x2="1200.0001" y2="782.2693" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1200.0001" y1="782.2693" x2="1200.0001" y2="957.2693" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1200.0001,957.2693 A225,225 339.3738 0 0 1650.0001,957.2693" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="1650.0001" y1="957.2693" x2="1650.0001" y2="782.2693" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1150.0001,957.2693 A275,275 249.3738 0 0 1700.0001,957.2693" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2249.9999,685 L2249.9999,2645.0001" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M400.0001,1825 L0.0001,2645.0001" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M400.0001,2645.0001 L0.0001,1825" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>

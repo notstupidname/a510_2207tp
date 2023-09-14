@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6215mm" height="5434.9223mm" viewBox="-16.0 -5450.9223 6247.0 5466.9223" version="1.1" class="svg-drawing">
+    <g transform="scale(1,-1)">
+        
+        <path d="M1495,3935.9998 L1495,5434.5967 L3734.9999,5434.9223 L3735.1024,4730 L3455,4730 L3455,4590 L6215,4590 L6215,3479.9998" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M6215,2584.9998 L6215,1944.9998" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1495,3135.9998 L1495,2200 L1355,2200 L1355,2844.9998 L605,2844.9998 L605,2204.9998 L0,2204.9998 L0,0 L555,0" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1355,0 L6215,0" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M6215,0 L6215,1144.9998" style="stroke-width:var(--lw-6);" />
+        
+        <path d="M1495,4590 L3455,4590" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="2257.3159" y1="4490" x2="2707.3159" y2="4490" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="2707.3159" y1="4490" x2="2707.3159" y2="4315" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2707.3159,4315 A225,225 159.3738 0 0 2257.3159,4315" style="stroke-width:var(--lw-3);" />
+        
+        <line x1="2257.3159" y1="4315" x2="2257.3159" y2="4490" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M2757.3159,4315 A275,275 69.3738 0 0 2207.3159,4315" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3455,4730 L3455,5434.5967" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3455,5434.5967 L3735.1024,4730" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M3735.1024,5434.5967 L3455,4730" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1495,3935.9998 L1495,3135.9998" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M6215,3479.9998 L6215,2584.9998" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M6215,1944.9998 L6215,1144.9998" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M555,0 L1355,0" style="stroke-width:var(--lw-1);stroke-dasharray:1rem" />
+        
+        <path d="M605,2204.9998 L1355,2204.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,1604.9998 L600,1604.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M605,2844.9998 L1355,2204.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1355,2844.9998 L605,2204.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M600,2204.9998 L600,1604.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,2204.9998 L600,1604.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M600,2204.9998 L0,1604.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M600,1604.9998 L600,1004.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,1604.9998 L600,1004.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M600,1604.9998 L0,1004.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M0,1004.9998 L600,1004.9998" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M4755,2343.334 L4755,1543.334 L2955,1543.334 L2955,2343.334 Z" style="stroke-width:var(--lw-3);" />
+        
+        <g>
+            
+            <line x1="2955" y1="900" x2="2955" y2="0" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="3855" y1="900" x2="3855" y2="0" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="2055" y1="900" x2="2955" y2="900" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="2955" y1="0" x2="2055" y2="0" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="2055" y1="0" x2="2055" y2="900" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="2205" y1="900" x2="2205" y2="150" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="2205" y1="150" x2="2955" y2="150" style="stroke-width:var(--lw-3);" />
+            
+            <path d="M2955,900 L3855,900" style="stroke-width:var(--lw-3);" />
+            
+            <path d="M2955,150 L3855,150" style="stroke-width:var(--lw-3);" />
+            
+            <path d="M2955,0 L3855,0" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="5655" y1="900" x2="4755" y2="900" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="4755" y1="900" x2="4755" y2="0" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="4755" y1="0" x2="5655" y2="0" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="5655" y1="0" x2="5655" y2="900" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="5505" y1="900" x2="5505" y2="150" style="stroke-width:var(--lw-3);" />
+            
+            <line x1="5505" y1="150" x2="4755" y2="150" style="stroke-width:var(--lw-3);" />
+            
+            <path d="M3855,900 L4755,900" style="stroke-width:var(--lw-3);" />
+            
+            <path d="M3855,150 L4755,150" style="stroke-width:var(--lw-3);" />
+            
+            <path d="M3855,0 L4755,0" style="stroke-width:var(--lw-3);" />
+        </g>
+        
+        <path d="M5655,0 L6215,0 L6215,504.9998 L5655,504.9998 Z" style="stroke-width:var(--lw-3);" />
+        
+        <path d="M1495,0 L2055,0 L2055,504.9998 L1495,504.9998 Z" style="stroke-width:var(--lw-3);" />
+    </g>
+</svg>
