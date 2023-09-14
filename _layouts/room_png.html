@@ -74,10 +74,12 @@
                         <img
                             src="/images/gallery/{{ name }}-pic-3.jpg">
                     </div>
+                    {%- unless page.three -%}
                     <div class="gitem">
                         <img
                             src="/images/gallery/{{ name }}-pic-4.jpg">
                     </div>
+                    {%- endunless -%}
                 </div>
                 {%- if page.six -%}
                 <div class="gallery">

@@ -1363,12 +1363,14 @@ a:not(.button):not(.link):not(.svg-link):hover svg {
     display: flex;
     gap: var(--space-xl-2xl);
     margin-block-start: var(--space-xl-2xl);
+    justify-content: space-evenly;
 }
 
 .gallery img {
     width: 100%;
     -webkit-mask-size: cover;
     mask-size: cover;
+    max-height: 95vh;
 }
 
 

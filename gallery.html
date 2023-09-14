@@ -27,9 +27,11 @@ page-short-title: Галерея
                 <div class="gitem">
                     <img src="/images/gallery/{{ name }}-pic-3.jpg">
                 </div>
+                {%- unless room.three -%}
                 <div class="gitem">
                     <img src="/images/gallery/{{ name }}-pic-4.jpg">
                 </div>
+                {%- endunless -%}
             </div>
             {%- if room.six -%}
                 <div class="gallery">
