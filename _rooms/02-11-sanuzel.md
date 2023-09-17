@@ -29,11 +29,11 @@ head:
 data:
 - id: Материалы
   content:
-  - name: Керамогранит СТАТУАРИО ФАНТАСТИКО 800х800
-    url: https://www.italonceramica.ru/ru/kollektsii/sharm-delyuks-flor-prodzhekt/statuario-fantastiko/?idart=1631
+  - name: Керамогранит КРЕМО ДЕЛИКАТО 600х1200
+    url: https://www.italonceramica.ru/ru/kollektsii/charme-advance-floor-project/kremo-delikato/?idart=1785
     pic: /images/02-11-sanuzel-1.jpg
-  - name: Декоративная штукатурка ECO VELVET VEIL
-    url: https://venicolor.ru/katalog/dekorativnaya-shtukaturka/polihromnye-multikolornye/riflessi-riflessi.html
+  - name: Декоративная штукатурка NUOVO
+    url: https://venicolor.ru/katalog/dekorativnaya-shtukaturka/pesok-oblaka-dozhd-inej/inej-tamstucco.html
     pic: /images/02-11-sanuzel-2.jpg
   - name: Дверь PROFIL DOORS 2.102U 700x2000
     url: https://www.profildoors.ru/catalog/serija_u/2_102u/?color=sand&glass=
@@ -87,7 +87,7 @@ data:
     pic: /images/02-11-sanuzel-18.jpg
     num: 1
   - name: Столешница с интегрированной раковиной
-    url: https://www.worldofquartz.ru/catalog/naturalnyy-kamen/majestic-belyy-mramor/
+    url: https://www.worldofquartz.ru/catalog/kvarcevyj-kamen/belenco/1123-perla/
     pic: /images/02-11-sanuzel-19.jpg
     num: 1
 - id: Светильники

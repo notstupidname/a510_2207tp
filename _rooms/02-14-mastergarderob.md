@@ -32,7 +32,7 @@ data:
     url: https://www.coswick.ru/product/davys-grey-4/
     pic: /images/02-14-mastergarderob-1.jpg
   - name: Матовая краска
-    url: https://www.littlegreene.com/harley-green
+    url: https://www.littlegreene.com/tuscan-red
     pic: /images/02-14-mastergarderob-2.jpg
   - name: Дверь PROFIL DOORS 2.102U 700x2000
     url: https://www.profildoors.ru/catalog/serija_u/2_102u/?color=sand&glass=

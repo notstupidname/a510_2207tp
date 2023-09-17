@@ -29,10 +29,10 @@ data:
 - id: Материалы
   content:
   - name: Керамогранит ПРО МАТРИКС 600х600
-    url: https://kerama-marazzi.com/catalog/gres/dd602400r/
+    url: https://kerama-marazzi.com/catalog/gres/dd602420r/
     pic: /images/01-02-boilernaya-1.jpg
   - name: Керамогранит ПРО МАТРИКС 300х600
-    url: https://kerama-marazzi.com/catalog/gres/dd201600r/
+    url: https://kerama-marazzi.com/catalog/gres/dd202420r/
     pic: /images/01-02-boilernaya-2.jpg
   - name: Влагостойкая краска 
     url: https://tikkurila.ru/dlya-professionalov/cveta/son-x459

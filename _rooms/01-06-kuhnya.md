@@ -15,7 +15,7 @@ dxf: plan_1_6.svg
 head:
 - name: Пол
   value:
-  - Керамогранит под дерево
+  - Ламинат
 - name: Стены
   value:
   - Плитка
@@ -29,14 +29,14 @@ head:
 data:
 - id: Материалы
   content:
-  - name: Керамогранит ЛОФТ МУРЛЭНД 200x1600
-    url: https://www.italonceramica.ru/ru/kollektsii/loft/murlend/?producttype=gres
+  - name: Ламинат PERGO UPPSALA PRO 190x1200
+    url: https://olimp-parketa.ru/catalog/laminat/laminat-pergo-uppsala-pro-l1249-05243-dub-vekovoy-korichnevyy-1-596-m2/
     pic: /images/01-06-kuhnya-1.jpg
   - name: Матовая краска
     url: https://tikkurila.ru/dlya-professionalov/cveta/son-x459
     pic: /images/01-06-kuhnya-2.jpg
   - name: Плитка для фартука 
-    url: https://www.equipeceramicas.com/en/portfolio-item/argile/
+    url: https://luxury-plitka.ru/equipe_argile/equipe_argile_cotto_6x24_6-i199852.html
     pic: /images/01-06-kuhnya-3.jpg
   - name: Камень для столешницы и подоконника
     url: https://www.worldofquartz.ru/catalog/kvarcevyj-kamen/belenco/1123-perla/

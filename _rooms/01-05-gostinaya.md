@@ -15,7 +15,7 @@ dxf: plan_1_5.svg
 head:
 - name: Пол
   value:
-  - Керамогранит под дерево
+  - Ламинат
 - name: Стены
   value:
   - Плитка
@@ -29,14 +29,14 @@ head:
 data:
 - id: Материалы
   content:
-  - name: Керамогранит ЛОФТ МУРЛЭНД 200x1600
-    url: https://www.italonceramica.ru/ru/kollektsii/loft/murlend/?producttype=gres
+  - name: Ламинат PERGO UPPSALA PRO 190x1200
+    url: https://olimp-parketa.ru/catalog/laminat/laminat-pergo-uppsala-pro-l1249-05243-dub-vekovoy-korichnevyy-1-596-m2/
     pic: /images/01-05-gostinaya-1.jpg
   - name: Матовая краска
-    url: https://tikkurila.ru/dlya-professionalov/cveta/v367-v367
+    url: https://tikkurila.ru/dlya-professionalov/cveta/j377-j377
     pic: /images/01-05-gostinaya-2.jpg
   - name: Камень для портала камина
-    url: https://www.worldofquartz.ru/catalog/naturalnyy-kamen/kvartsit-esmeralda-esmeralda/
+    url: https://www.worldofquartz.ru/catalog/naturalnyy-kamen/bidasar-green/
     pic: /images/01-05-gostinaya-3.jpg
   - name: Камень для подоконника
     url: https://www.worldofquartz.ru/catalog/kvarcevyj-kamen/belenco/1123-perla/
@@ -61,12 +61,12 @@ data:
     url: https://www.laredoute.ru/ppdp/prod-350100078.aspx#searchkeyword=am%20pm&shoppingtool=search
     pic: /images/01-05-gostinaya-13.jpg
     num: 1
-  - name: Столики журнальные
-    url: https://www.laredoute.ru/ppdp/prod-350153697.aspx#searchkeyword=am%20pm&shoppingtool=search
+  - name: Столик журнальный
+    url: https://www.laredoute.ru/ppdp/prod-350230762.aspx?docid=865623&shoppingtool=search
     pic: /images/01-05-gostinaya-14.jpg
-    num: 2
+    num: 1
   - name: Кресло
-    url: https://www.barcelonadesign.ru/catalog/kresla/kreslo_a129/
+    url: https://skdesign.ru/product/kreslo-miami-lux?pa_fabric=14-3
     pic: /images/01-05-gostinaya-15.jpg
     num: 2
   - name: Тумба под ТВ на заказ
@@ -76,7 +76,7 @@ data:
 - id: Светильники
   content:
   - name: Люстра KICHLER
-    url: https://www.kichler.com/kichler/products/indoor-lighting/chandeliers/2-tier-chandeliers/trentino-9-light-chandelier-natural-brass/
+    url: https://www.kichler.com/kichler/products/indoor-lighting/chandeliers/multi-tier-chandeliers/trentino-9-light-chandelier-natural-brass/
     pic: /images/01-05-gostinaya-19.jpg
     num: 1
   - name: Настенный светильник HENRIO

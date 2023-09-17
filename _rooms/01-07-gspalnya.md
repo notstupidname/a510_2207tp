@@ -33,7 +33,7 @@ data:
     url: https://www.coswick.ru/product/davys-grey-4/
     pic: /images/01-07-gspalnya-1.jpg
   - name: Обои MONSOON MUSA
-    url: https://www.arte-international.com/en/collections/monsoon-2-0/musa/75003b
+    url: https://www.ampir.ru/catalog/oboi/392544/
     pic: /images/01-07-gspalnya-2.jpg
   - name: Матовая краска
     url: https://tikkurila.ru/dlya-vashego-doma/cveta/lido-x445
@@ -60,7 +60,7 @@ data:
     pic: /images/01-07-gspalnya-11.jpg
     num: 1
   - name: Кресло 
-    url: https://www.laredoute.ru/ppdp/prod-350232671.aspx#shoppingtool=internalcampaign
+    url: https://www.laredoute.ru/ppdp/prod-350104991.aspx?dim1=1#shoppingtool=search
     pic: /images/01-07-gspalnya-12.jpg
     num: 1
   - name: Шкаф распашной на заказ

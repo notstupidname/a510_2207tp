@@ -33,10 +33,10 @@ data:
     url: https://www.coswick.ru/product/davys-grey-4/
     pic: /images/02-13-masterspalnya-1.jpg
   - name: Матовая краска
-    url: https://www.littlegreene.com/china-clay-dark
+    url: https://www.littlegreene.com/mushroom
     pic: /images/02-13-masterspalnya-2.jpg
-  - name: Обои SYCAMORE
-    url: https://www.omexco.com/wallcoverings/sycamore
+  - name: Обои ARTE SCULPTURA
+    url: https://www.ampir.ru/catalog/oboi/386111/
     pic: /images/02-13-masterspalnya-3.jpg
   - name: Деревянный подоконник
     url: https://woodenshield.ru/catalog/pilomaterialy/podokonniki/
@@ -48,7 +48,7 @@ data:
 - id: Мебель
   content:
   - name: Кровать 1600х2000
-    url: https://www.boconcept.com/ru-ru/austin/3900075AUW83111.html
+    url: https://www.boconcept.com/ru-ru/austin/3900075AUW60300.html
     pic: /images/02-13-masterspalnya-9.jpg
     num: 1
   - name: Тумба прикроватная
@@ -66,6 +66,10 @@ data:
   - name: Пуф
     url: https://skdesign.ru/product/mendini-skamja-banketka-otkidnoj-134-44-44-sm-2?pa_fabric=08-5
     pic: /images/02-13-masterspalnya-13.jpg
+    num: 1
+  - name: Зеркало круглое
+    url: https://dantonehome.ru/products/zerkalo_amber_krugloe_latunnogo_tsveta/
+    pic: empty
     num: 1
 - id: Светильники
   content:

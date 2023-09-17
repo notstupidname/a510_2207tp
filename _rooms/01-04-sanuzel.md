@@ -30,8 +30,8 @@ head:
 data:
 - id: Материалы
   content:
-  - name: Керамогранит ЛОФТ МУРЛЭНД 200x1600
-    url: https://www.italonceramica.ru/ru/kollektsii/loft/murlend/?producttype=gres
+  - name: Керамогранит ATLAS CONCORDE ANTICA RIVE 200x1600
+    url: https://luxury-plitka.ru/atlas_concorde_russia_rive/atlas_concorde_rive_antica_riva_20x160-i195065.html
     pic: /images/01-04-sanuzel-1.jpg
   - name: Керамогранит фон TERRAE SABBIA 600х1200
     url: https://vallelungacer.it/ru/k%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/terrae/
@@ -48,8 +48,8 @@ data:
     num: 1
 - id: Сантехника и аксессуары
   content:
-  - name: Тумба с раковиной LAUFEN PRO S 480
-    url: https://www.laufen.ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/%D1%88%D0%BA%D0%B0%D1%84%D1%87%D0%B8%D0%BA-%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%83-%D0%BF%D0%B5%D1%82%D0%BB%D0%B8-%D1%81%D0%BB%D0%B5%D0%B2%D0%B0-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B0%D1%81%D1%81%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D0%B8-%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8-%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B-815955-H483001095...1?sku=H4830010959991
+  - name: Тумба с раковиной JACOB DELAFON TOLBIAC 50
+    url: https://www.santehnica.ru/product/488617.html
     pic: /images/01-04-sanuzel-8.jpg
     num: 1
   - name: Смеситель PAFFONI RINGO 
