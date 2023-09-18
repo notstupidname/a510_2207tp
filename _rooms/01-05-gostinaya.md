@@ -33,7 +33,7 @@ data:
     url: https://olimp-parketa.ru/catalog/laminat/laminat-pergo-uppsala-pro-l1249-05243-dub-vekovoy-korichnevyy-1-596-m2/
     pic: /images/01-05-gostinaya-1.jpg
   - name: Матовая краска
-    url: https://tikkurila.ru/dlya-professionalov/cveta/j377-j377
+    url: https://www.littlegreene.com/garden
     pic: /images/01-05-gostinaya-2.jpg
   - name: Камень для портала камина
     url: https://www.worldofquartz.ru/catalog/naturalnyy-kamen/bidasar-green/

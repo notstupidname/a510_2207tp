@@ -69,7 +69,7 @@ data:
     num: 1
   - name: Зеркало круглое
     url: https://dantonehome.ru/products/zerkalo_amber_krugloe_latunnogo_tsveta/
-    pic: empty
+    pic: /images/02-13-masterspalnya-14.jpg
     num: 1
 - id: Светильники
   content:

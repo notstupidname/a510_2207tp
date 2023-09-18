@@ -57,7 +57,7 @@ data:
     pic: /images/01-04-sanuzel-9.jpg
     num: 1
   - name: Полотенцесушитель эл. СУНЕРЖА
-    url: https://shop.sunerzha.com/catalog/elektricheskie/lesenki_2/reb_bogema_3_0_pryamaya_600kh500_mem_pravyy/?oid=30780
+    url: https://shop.sunerzha.com/catalog/elektricheskie/lesenki_2/reb_bogema_3_0_pryamaya_800kh500_mem_pravyy/?oid=31201
     pic: /images/01-04-sanuzel-10.jpg
     num: 1
   - name: Душевая система PAFFONI KIT 
