@@ -10,6 +10,8 @@ name: Музыкальная студия
 number: 19
 floor: 3
 
+three: 1
+
 dxf: plan_3_19.svg
 
 head:
