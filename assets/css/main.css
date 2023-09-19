@@ -359,7 +359,13 @@ body.transition:after {
 body {
     display: grid;
     grid-template-columns: var(--gap) max-content 1fr var(--gap);
-    grid-template-rows: max-content;
+    grid-template-rows: 1fr auto;
+}
+
+@media screen and (max-width: 1270px) {
+    body {
+        grid-template-rows: auto 1fr auto;
+    }
 }
 
 .stack>*+* {
@@ -1384,4 +1390,10 @@ a:not(.button):not(.link):not(.svg-link):hover svg {
 .link.disabled {
     cursor: default;
     opacity: 0.5;
+}
+
+ol.download {
+    list-style: auto;
+    list-style-position: inside;
+    line-height: 2.5;
 }
