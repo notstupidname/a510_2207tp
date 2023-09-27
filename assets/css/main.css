@@ -1396,4 +1396,6 @@ ol.download {
     list-style: auto;
     list-style-position: inside;
     line-height: 2.5;
+    font-size: var(--custom-step-1);
+    text-transform: uppercase;
 }
